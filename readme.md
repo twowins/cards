@@ -8,29 +8,34 @@
 ```
 {
     "soulmachines": {
-        "menu_001": {
-            "data": {
-                "options": [
-                    {
-                        "value": "1",
-                        "label": "1 - Confirmação de minha Viagem"
-                    },
-                    {
-                        "label": "2 - Alteração na Reserva",
-                        "value": "2"
-                    },
-                    {
-                        "label": "3 - Cancelar minha Viagem",
-                        "value": "3"
-                    },
-                    {
-                        "label": "4 - Documentos Necessários para entrar na Nova Zelândia",
-                        "value": "4"
-                    }
-                ]
-            },
-            "type": "options"
+        "menu_00 {
+            1":"type": "options"
         }
     }
 }
+```
+
+- O Playload é uma strutura de dados em Json, o corpo editável é apartir da indice data
+```
+ "data": {
+    "options": [
+        {
+            "value": "1",
+            "label": "1 - Confirmação de minha Viagem"
+        },
+        {
+            "label": "2 - Alteração na Reserva",
+            "value": "2"
+        },
+        {
+            "label": "3 - Cancelar minha Viagem",
+            "value": "3"
+        },
+        {
+            "label": "4 - Documentos Necessários para entrar na Nova Zelândia",
+            "value": "4"
+        }
+    ]
+}
+
 ```
