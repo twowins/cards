@@ -8,14 +8,15 @@
 ```
 {
     "soulmachines": {
-        "menu_00 {
-            1":"type": "options"
+        "menu_001": {
+            "type": "options"
         }
     }
 }
 ```
 
-- O Playload é uma strutura de dados em Json, o corpo editável é apartir da indice data
+- O Playload é uma strutura de dados em Json, o corpo editável é apartir da indice data, para montar
+
 ```
  "data": {
     "options": [
