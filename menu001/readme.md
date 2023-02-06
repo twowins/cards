@@ -27,7 +27,7 @@
                         "label": "4 - Documentos Necessários para entrar na Nova Zelândia",
                         "value": "4"
                     },
-                                      {
+                    {
                         "label": "Saber mais sobre a Nova Zelândia",
                         "value": "5"
                     }
