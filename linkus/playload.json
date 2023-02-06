@@ -1,0 +1,12 @@
+{
+    "soulmachines": {
+        "linkus": {
+            "type": "externalLink",
+            "data": {
+                "title": "teste",
+                "description": "sdfdfds",
+                "url": "https://placekitten.com/500/500"
+            }
+        }
+    }
+}
