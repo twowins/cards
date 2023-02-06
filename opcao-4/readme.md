@@ -12,9 +12,9 @@
             "type": "externalLink",
             "data": {
                 "imageUrl": "",
-                "title": "",
-                "description": "",
-                "url": "",
+                "title": "Ter uma NZeTA",
+                "description": "Autorização Eletrônica de Viagem para a Nova Zelândia",
+                "url": "https://www.immigration.govt.nz/documents/communications-toolkit/nzeta-request-form-portuguese-translation.pdf",
                 "imageAltText": ""
             }
         }
