@@ -1,0 +1,12 @@
+{
+    "soulmachines": {
+        "encerrar": {
+            "type": "externalLink",
+            "data": {
+                "title": "LINK",
+                "description": "ENCERRA NA TRANSFERÊNCIA",
+                "url": "#"
+            }
+        }
+    }
+}
