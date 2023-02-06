@@ -7,15 +7,15 @@
 
 ```
 {
-  "soulmachines": {
-    "linkus": {
-      "type": "externalLink",
-      "data": {
-        "title": "teste",
-        "description": "sdfdfds",
-        "url": "https://placekitten.com/500/500"
-      }
+    "soulmachines": {
+        "linkus": {
+            "type": "externalLink",
+            "data": {
+                "title": "LINK",
+                "description": "LINK MINISTÉRIO DO TURISMO DA NOVA ZELANDIA",
+                "url": "https://www.newzealand.com/us/"
+            }
+        }
     }
-  }
 }
 ```
