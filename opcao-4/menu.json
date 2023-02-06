@@ -1,0 +1,14 @@
+{
+    "soulmachines": {
+        "option4": {
+            "type": "externalLink",
+            "data": {
+                "imageUrl": "",
+                "title": "",
+                "description": "",
+                "url": "",
+                "imageAltText": ""
+            }
+        }
+    }
+}
